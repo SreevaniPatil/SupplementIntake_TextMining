@@ -1,2 +1,5 @@
 # SupplementIntake_TextMining
-Text mining project
+
+With the rise of the health and wellness industry, there is a growing number of people looking to supplement their diets with various vitamins, minerals, and other substances. However, not all supplements are created equal and some can even be harmful if not used properly. It is essential to have accurate and reliable information on the benefits and risks of supplements to make informed decisions about one's health. This topic matters because it affects the health and quality of life of individuals and communities, and it is important for people to have access to accurate information to make informed choices about their health.
+
+Supplements are a popular addition to many people's diets, with the goal of enhancing their health and physical performance. While some supplements have been shown to have specific benefits, the overall effect of supplements on health is a topic of ongoing scientific research and debate. It is important to note that supplements should not be used as a replacement for a balanced diet, and it is always recommended to consult with a healthcare professional before starting a supplement regimen.
